@@ -5,6 +5,8 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
+//Process Memory Utils, Written / Developed by Deccatron
+
 namespace Memory
 {
     public class Mem : IDisposable
